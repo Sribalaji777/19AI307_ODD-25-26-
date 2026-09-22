@@ -25,7 +25,7 @@ To write a Java program that reads an integer from the user and displays all the
 
 Program to implement a Looping Statement using Java
 Developed by: SRIBALAJI S
-RegisterNumber: 212224040102
+RegisterNumber: 212224040326
 
 ```
 
